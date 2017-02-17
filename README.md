@@ -1,2 +1,3 @@
 # hello-world
-first one
+
+Hello! I'm just learning.
